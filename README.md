@@ -51,14 +51,14 @@ The dashboard helps in understanding:
 
 ---
 
-## Key Insights
+## 5 Key Insights
 
-- Most tracks showed declining trends despite high viral scores.
-- Pop and K-Pop genres generated the highest number of streams.
-- Only a small percentage of tracks were categorized as trending.
-- Viral popularity does not always guarantee high streaming performance.
-- Streaming performance varied significantly across countries and genres.
 
+Pop & K-Pop dominate, but most tracks are falling — Pop leads with 97M streams and K-Pop follows with 73M, yet 137 out of 178 tracks are on a "Falling" trend. Only 41 tracks are rising.
+Viral score does NOT guarantee streams — The Viral vs Streams page clearly shows that tracks with high viral scores often have lower actual stream counts. Going viral doesn't mean people keep listening.
+Very few tracks are truly trending — Out of 373M total streams and 178 tracks, only 5 are "Trending." The conversion funnel shows just 2.9% of tracks reach trending status.
+Average stream change is negative (-0.13) — This means, on average, tracks are losing streams over time. The platform has more declining content than growing content right now.
+Pop contributes the most to total streams, but K-Pop punches above its weight — K-Pop has fewer tracks than Pop but still generates 73M streams, showing stronger per-track performance and loyal fanbases.
 ---
 
 ## Files Included
